@@ -1,0 +1,4 @@
+usr/include/protobuf-c-rpc/*
+usr/lib/*/lib*.a
+usr/lib/*/lib*.so
+usr/lib/*/pkgconfig/*.pc
